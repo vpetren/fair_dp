@@ -25,11 +25,9 @@ We include a compressed file with our processed data already in the `data/` fold
 
 ### Trustpilot Corpus
 
-The full processed dataset (all languages) can be download [here](https://drive.google.com/file/d/1_BEZQXp38BeiuLMJxKydTlrOj7Ne9gP8/view?usp=sharing). **Please do NOT distribute.**
+The full processed dataset (all languages) can be download [here](https://drive.google.com/file/d/1_BEZQXp38BeiuLMJxKydTlrOj7Ne9gP8/view?usp=sharing).
 
-Then put the decompressed folder to data folder, e.g. './data/trustpilot'
-
-We include a compressed file with the processed data (UK+US) already in the `data/` folder.
+Then put the decompressed folder to the data folder and run the corresponding preprocessing command.
 
 ### CelebA
 
